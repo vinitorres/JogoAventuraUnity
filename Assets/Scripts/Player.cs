@@ -9,8 +9,6 @@ public class Player : MonoBehaviour {
     public float velocidade;
     public float impulso;
 
-    public static bool finishLevel = false;
-
     public Transform chaoVerificador;
     bool estaoNoChao;
 
