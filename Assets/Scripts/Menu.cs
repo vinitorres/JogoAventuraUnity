@@ -6,11 +6,6 @@ using UnityEngine.SceneManagement;
 
 public class Menu : MonoBehaviour {
 
-    public static bool level1Completed = false;
-    public static bool level2Completed = false;
-
-    public GameObject background;
-
     public Button buttonLevel1;
     public Button buttonLevel2;
     public Button buttonLevel3;
